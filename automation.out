@@ -1,0 +1,286 @@
+2017-10-02 17-52-55 INFO  TC001_VerifyLoginWithInvalidCredentials:27 -============ Starting Test ===================
+2017-10-02 17-52-57 INFO  HomePage:40 -Clicked on Sign In Button and Object is [[FirefoxDriver: chrome on XP (c73d19ef450320dfc1f018ac647d665b)] -> xpath: //a[contains(.,'Sign in')]]
+2017-10-02 17-52-57 INFO  HomePage:42 -Successfully Entered Email Address test@gmail.comand Object is [[FirefoxDriver: chrome on XP (c73d19ef450320dfc1f018ac647d665b)] -> id: email]
+2017-10-02 17-52-57 INFO  HomePage:44 -Successfully Entered Password 1234testand Object is [[FirefoxDriver: chrome on XP (c73d19ef450320dfc1f018ac647d665b)] -> id: passwd]
+2017-10-02 17-52-59 INFO  HomePage:46 -Successfully Clicked on Submit Button and Object is  [[FirefoxDriver: chrome on XP (c73d19ef450320dfc1f018ac647d665b)] -> id: SubmitLogin]
+2017-10-02 17-52-59 INFO  HomePage:51 -Error message received ism Authentication failed.
+2017-10-02 17-52-59 INFO  TC001_VerifyLoginWithInvalidCredentials:31 -=========== Finished Test ====================
+2017-10-02 17-57-25 INFO  TC001_VerifyLoginWithInvalidCredentials:27 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 17-57-28 INFO  HomePage:40 -Clicked on Sign In Button
+2017-10-02 17-57-28 INFO  HomePage:42 -Successfully Entered Email Address test@gmail.com
+2017-10-02 17-57-29 INFO  HomePage:44 -Successfully Entered Password 1234test
+2017-10-02 17-57-30 INFO  HomePage:46 -Successfully Clicked on Submit Button
+2017-10-02 17-57-30 INFO  HomePage:51 -Error message received ism Authentication failed.
+2017-10-02 17-57-30 INFO  TC001_VerifyLoginWithInvalidCredentials:31 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 18-09-48 INFO  TC001_VerifyLoginWithInvalidCredentials:27 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 18-11-40 INFO  TC001_VerifyLoginWithInvalidCredentials:27 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 18-11-41 INFO  HomePage:61 -Verification Message received with UserID is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 18-13-00 INFO  TC001_VerifyLoginWithInvalidCredentials:27 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 18-13-02 INFO  HomePage:61 -Verification Message received with UserID is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 18-13-02 INFO  TC001_VerifyLoginWithInvalidCredentials:31 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 18-14-14 INFO  TC001_VerifyLoginWithInvalidCredentials:27 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 18-14-14 INFO  HomePage:44 -Successfully Entered Email Address mngr98931
+2017-10-02 18-14-14 INFO  HomePage:46 -Successfully Entered Email Address jemyzyz
+2017-10-02 18-14-16 INFO  HomePage:48 -Successfully Clicked on Login Button
+2017-10-02 18-14-16 INFO  HomePage:64 -Verification Message received with UserID is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 18-14-16 INFO  TC001_VerifyLoginWithInvalidCredentials:31 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 18-28-52 INFO  TC001_VerifyLoginWithInvalidCredentials:27 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 18-28-52 INFO  HomePage:44 -Successfully Entered Email Address mngr98931
+2017-10-02 18-28-52 INFO  HomePage:46 -Successfully Entered Password Address jemyzyz
+2017-10-02 18-28-54 INFO  HomePage:48 -Successfully Clicked on Login Button
+2017-10-02 18-28-54 INFO  HomePage:64 -Verification Message received with UserID is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 18-28-54 INFO  TC001_VerifyLoginWithInvalidCredentials:31 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 19-50-59 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 19-51-00 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-02 19-51-00 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-02 19-51-01 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-02 19-51-01 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 19-51-03 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 19-54-42 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 19-54-42 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-02 19-54-42 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-02 19-54-43 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-02 19-54-43 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 19-54-44 INFO  HomePage:89 -Successfully Clicked on New User Tab
+2017-10-02 19-54-44 INFO  HomePage:91 -Successfully Entered Password Address Test Customer
+2017-10-02 19-54-44 INFO  HomePage:93 -Successfully clicked on Gender radio button
+2017-10-02 19-54-44 INFO  HomePage:95 -Successfully Entered Date Of Birth  10/02/1991
+2017-10-02 19-54-44 INFO  HomePage:97 -Successfully Entered Customer Address Central Avanue Road North Block behing Fataka Bhandar
+2017-10-02 19-54-44 INFO  HomePage:99 -Successfully Entered Customer City  Atlanta
+2017-10-02 19-54-45 INFO  HomePage:101 -Successfully Entered Customer State United Nations
+2017-10-02 19-54-45 INFO  HomePage:103 -Successfully Entered Customer Pin 563214
+2017-10-02 19-54-45 INFO  HomePage:105 -Successfully Entered Customer Mobile NO. 8536921470
+2017-10-02 19-54-45 INFO  HomePage:107 -Successfully Entered Email Address  Test123@gmail.com
+2017-10-02 19-54-45 INFO  HomePage:109 -Successfully Entered Password  123Test
+2017-10-02 19-54-45 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 19-59-00 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 19-59-01 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-02 19-59-01 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-02 19-59-02 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-02 19-59-02 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 19-59-03 INFO  HomePage:89 -Successfully Clicked on New User Tab
+2017-10-02 19-59-03 INFO  HomePage:91 -Successfully Entered Customer Name Test Customer
+2017-10-02 19-59-03 INFO  HomePage:93 -Successfully clicked on Gender radio button
+2017-10-02 19-59-03 INFO  HomePage:95 -Successfully Entered Date Of Birth  10/02/1991
+2017-10-02 19-59-03 INFO  HomePage:97 -Successfully Entered Customer Address Central Avanue Road North Block behing Fataka Bhandar
+2017-10-02 19-59-04 INFO  HomePage:99 -Successfully Entered Customer City  Atlanta
+2017-10-02 19-59-04 INFO  HomePage:101 -Successfully Entered Customer State United Nations
+2017-10-02 19-59-04 INFO  HomePage:103 -Successfully Entered Customer Pin 563214
+2017-10-02 19-59-04 INFO  HomePage:105 -Successfully Entered Customer Mobile NO. 8536921470
+2017-10-02 19-59-04 INFO  HomePage:107 -Successfully Entered Email Address  Test123@gmail.com
+2017-10-02 19-59-04 INFO  HomePage:109 -Successfully Entered Password  123Test
+2017-10-02 19-59-04 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 19-59-41 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 19-59-41 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-02 19-59-41 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-02 19-59-42 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-02 19-59-42 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 19-59-43 INFO  HomePage:89 -Successfully Clicked on New User Tab
+2017-10-02 19-59-43 INFO  HomePage:91 -Successfully Entered Customer Name Test Customer
+2017-10-02 19-59-43 INFO  HomePage:93 -Successfully clicked on Gender radio button
+2017-10-02 19-59-43 INFO  HomePage:95 -Successfully Entered Date Of Birth  10/02/1991
+2017-10-02 19-59-43 INFO  HomePage:97 -Successfully Entered Customer Address Central Avanue Road North Block behing Fataka Bhandar
+2017-10-02 19-59-44 INFO  HomePage:99 -Successfully Entered Customer City  Atlanta
+2017-10-02 19-59-44 INFO  HomePage:101 -Successfully Entered Customer State United Nations
+2017-10-02 19-59-44 INFO  HomePage:103 -Successfully Entered Customer Pin 563214
+2017-10-02 19-59-44 INFO  HomePage:105 -Successfully Entered Customer Mobile NO. 8536921470
+2017-10-02 19-59-44 INFO  HomePage:107 -Successfully Entered Email Address  Test123@gmail.com
+2017-10-02 19-59-44 INFO  HomePage:109 -Successfully Entered Password  123Test
+2017-10-02 19-59-44 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-02 20-00-00 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-02 20-00-00 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-02 20-00-00 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-02 20-00-01 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-02 20-00-01 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-02 20-00-02 INFO  HomePage:89 -Successfully Clicked on New User Tab
+2017-10-02 20-00-02 INFO  HomePage:91 -Successfully Entered Customer Name Test Customer
+2017-10-02 20-00-02 INFO  HomePage:93 -Successfully clicked on Gender radio button
+2017-10-02 20-00-02 INFO  HomePage:95 -Successfully Entered Date Of Birth  10/02/1991
+2017-10-02 20-00-03 INFO  HomePage:97 -Successfully Entered Customer Address Central Avanue Road North Block behing Fataka Bhandar
+2017-10-02 20-00-03 INFO  HomePage:99 -Successfully Entered Customer City  Atlanta
+2017-10-02 20-00-03 INFO  HomePage:101 -Successfully Entered Customer State United Nations
+2017-10-02 20-00-03 INFO  HomePage:103 -Successfully Entered Customer Pin 563214
+2017-10-02 20-00-03 INFO  HomePage:105 -Successfully Entered Customer Mobile NO. 8536921470
+2017-10-02 20-00-03 INFO  HomePage:107 -Successfully Entered Email Address  Test123@gmail.com
+2017-10-02 20-00-03 INFO  HomePage:109 -Successfully Entered Password  123Test
+2017-10-02 20-00-03 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 11-37-00 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 11-37-01 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-03 11-37-01 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 11-37-02 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 11-37-02 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-03 11-37-03 INFO  HomePage:89 -Successfully Clicked on New User Tab
+2017-10-03 11-37-03 INFO  HomePage:91 -Successfully Entered Customer Name Test Customer
+2017-10-03 11-37-03 INFO  HomePage:93 -Successfully clicked on Gender radio button
+2017-10-03 11-37-03 INFO  HomePage:95 -Successfully Entered Date Of Birth  10/02/1991
+2017-10-03 11-37-03 INFO  HomePage:97 -Successfully Entered Customer Address Central Avanue Road North Block behing Fataka Bhandar
+2017-10-03 11-37-04 INFO  HomePage:99 -Successfully Entered Customer City  Atlanta
+2017-10-03 11-37-04 INFO  HomePage:101 -Successfully Entered Customer State United Nations
+2017-10-03 11-37-04 INFO  HomePage:103 -Successfully Entered Customer Pin 563214
+2017-10-03 11-37-04 INFO  HomePage:105 -Successfully Entered Customer Mobile NO. 8536921470
+2017-10-03 11-37-04 INFO  HomePage:107 -Successfully Entered Email Address  Test123@gmail.com
+2017-10-03 11-37-04 INFO  HomePage:109 -Successfully Entered Password  123Test
+2017-10-03 11-37-04 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 11-43-46 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 11-52-27 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 11-52-28 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-03 11-52-28 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 11-52-29 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 11-52-29 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-03 11-52-30 INFO  HomePage:89 -Successfully Clicked on New User Tab
+2017-10-03 11-52-30 INFO  HomePage:91 -Successfully Entered Customer Name Test Customer
+2017-10-03 11-52-30 INFO  HomePage:93 -Successfully clicked on Gender radio button
+2017-10-03 11-52-30 INFO  HomePage:95 -Successfully Entered Date Of Birth  10/02/1991
+2017-10-03 11-52-31 INFO  HomePage:97 -Successfully Entered Customer Address Central Avanue Road North Block behing Fataka Bhandar
+2017-10-03 11-52-31 INFO  HomePage:99 -Successfully Entered Customer City  Atlanta
+2017-10-03 11-52-31 INFO  HomePage:101 -Successfully Entered Customer State United Nations
+2017-10-03 11-52-31 INFO  HomePage:103 -Successfully Entered Customer Pin 563214
+2017-10-03 11-52-31 INFO  HomePage:105 -Successfully Entered Customer Mobile NO. 8536921470
+2017-10-03 11-52-31 INFO  HomePage:107 -Successfully Entered Email Address  Test123@gmail.com
+2017-10-03 11-52-31 INFO  HomePage:109 -Successfully Entered Password  123Test
+2017-10-03 11-52-31 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 11-53-00 INFO  TC001_VerifyLoginWithInvalidCredentials:38 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 11-53-00 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-03 11-53-00 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 11-53-02 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 11-53-02 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-03 11-53-02 INFO  HomePage:89 -Successfully Clicked on New User Tab
+2017-10-03 11-53-03 INFO  HomePage:91 -Successfully Entered Customer Name Test Customer
+2017-10-03 11-53-03 INFO  HomePage:93 -Successfully clicked on Gender radio button
+2017-10-03 11-53-03 INFO  HomePage:95 -Successfully Entered Date Of Birth  10/02/1991
+2017-10-03 11-53-03 INFO  HomePage:97 -Successfully Entered Customer Address Central Avanue Road North Block behing Fataka Bhandar
+2017-10-03 11-53-03 INFO  HomePage:99 -Successfully Entered Customer City  Atlanta
+2017-10-03 11-53-03 INFO  HomePage:101 -Successfully Entered Customer State United Nations
+2017-10-03 11-53-03 INFO  HomePage:103 -Successfully Entered Customer Pin 563214
+2017-10-03 11-53-03 INFO  HomePage:105 -Successfully Entered Customer Mobile NO. 8536921470
+2017-10-03 11-53-04 INFO  HomePage:107 -Successfully Entered Email Address  Test123@gmail.com
+2017-10-03 11-53-04 INFO  HomePage:109 -Successfully Entered Password  123Test
+2017-10-03 11-53-04 INFO  TC001_VerifyLoginWithInvalidCredentials:43 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 12-48-37 INFO  TC001_VerifyLoginWithInvalidCredentials:39 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 12-48-37 INFO  HomePage:61 -Successfully Entered Email Address mngr9893
+2017-10-03 12-48-37 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 12-48-38 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 12-50-02 INFO  TC001_VerifyLoginWithInvalidCredentials:40 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 12-50-02 INFO  HomePage:61 -Successfully Entered Email Address mngr9893
+2017-10-03 12-50-02 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 12-50-03 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 12-51-42 INFO  TC001_VerifyLoginWithInvalidCredentials:40 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 12-51-42 INFO  HomePage:61 -Successfully Entered Email Address mngr9893
+2017-10-03 12-51-42 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 12-51-43 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 12-52-39 INFO  TC001_VerifyLoginWithInvalidCredentials:40 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 12-52-39 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-03 12-52-39 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 12-52-40 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 12-52-40 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-03 12-52-40 INFO  TC001_VerifyLoginWithInvalidCredentials:45 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 13-43-52 INFO  TC001_VerifyLoginWithInvalidCredentials:63 -Successfully Closed the Browser Instance
+2017-10-03 13-48-42 INFO  TC001_VerifyLoginWithInvalidCredentials:63 -Successfully Closed the Browser Instance
+2017-10-03 13-49-50 INFO  TC001_VerifyLoginWithInvalidCredentials:63 -Successfully Closed the Browser Instance
+2017-10-03 13-54-49 INFO  TC001_VerifyLoginWithInvalidCredentials:67 -Successfully Closed the Browser Instance
+2017-10-03 13-56-49 INFO  TC001_VerifyLoginWithInvalidCredentials:67 -Successfully Closed the Browser Instance
+2017-10-03 14-48-49 INFO  TC001_VerifyLoginWithValidCredentials:68 -Successfully Closed the Browser Instance
+2017-10-03 14-50-44 INFO  TC001_VerifyLoginWithValidCredentials:68 -Successfully Closed the Browser Instance
+2017-10-03 14-53-33 INFO  TC001_VerifyLoginWithValidCredentials:68 -Successfully Closed the Browser Instance
+2017-10-03 14-56-55 INFO  TC001_VerifyLoginWithValidCredentials:54 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 14-56-55 INFO  HomePage:61 -Successfully Entered Email Address Test@gmail.com
+2017-10-03 14-56-55 INFO  HomePage:63 -Successfully Entered Password Address 123456test
+2017-10-03 14-56-56 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 14-57-03 INFO  TC001_VerifyLoginWithValidCredentials:69 -Successfully Closed the Browser Instance
+2017-10-03 14-57-39 INFO  TC001_VerifyLoginWithValidCredentials:54 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 14-57-39 INFO  HomePage:61 -Successfully Entered Email Address mngr98931
+2017-10-03 14-57-39 INFO  HomePage:63 -Successfully Entered Password Address jemyzyz
+2017-10-03 14-57-41 INFO  HomePage:65 -Successfully Clicked on Login Button
+2017-10-03 14-57-41 INFO  HomePage:81 -Verification Message received is  Welcome To Manager's Page of Guru99 Bank
+2017-10-03 14-57-41 INFO  TC001_VerifyLoginWithValidCredentials:60 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 14-57-48 INFO  TC001_VerifyLoginWithValidCredentials:69 -Successfully Closed the Browser Instance
+2017-10-03 15-56-24 INFO  TC001_VerifyLoginWithValidCredentials:71 -Successfully Closed the Browser Instance
+2017-10-03 15-57-54 INFO  TC001_VerifyLoginWithValidCredentials:71 -Successfully Closed the Browser Instance
+2017-10-03 15-59-46 INFO  TC001_VerifyLoginWithValidCredentials:71 -Successfully Closed the Browser Instance
+2017-10-03 16-07-03 INFO  TC001_VerifyLoginWithValidCredentials:71 -Successfully Closed the Browser Instance
+2017-10-03 16-15-01 INFO  TC001_VerifyLoginWithValidCredentials:71 -Successfully Closed the Browser Instance
+2017-10-03 16-16-48 INFO  TC001_VerifyLoginWithValidCredentials:71 -Successfully Closed the Browser Instance
+2017-10-03 16-18-30 INFO  TC001_VerifyLoginWithValidCredentials:71 -Successfully Closed the Browser Instance
+2017-10-03 17-19-32 INFO  TC001_VerifyLoginWithValidCredentials:67 -Successfully Closed the Browser Instance
+2017-10-03 17-21-17 INFO  TC001_VerifyLoginWithValidCredentials:54 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 17-21-17 INFO  HomePage:66 -Successfully Entered Email Address [[ChromeDriver: chrome on XP (08e85e020fba9b55d9b29e2d0f6c3b2f)] -> name: uid]
+2017-10-03 17-21-17 INFO  HomePage:68 -Successfully Entered Password Address jemyzyz
+2017-10-03 17-21-19 INFO  HomePage:70 -Successfully Clicked on Login Button
+2017-10-03 17-21-19 INFO  TC001_VerifyLoginWithValidCredentials:58 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 17-21-26 INFO  TC001_VerifyLoginWithValidCredentials:67 -Successfully Closed the Browser Instance
+2017-10-03 17-23-09 INFO  TC001_VerifyLoginWithValidCredentials:54 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 17-23-09 INFO  HomePage:64 -Successfully Entered Email Address [[ChromeDriver: chrome on XP (067eb173bb31c9d024827f8d2ad33285)] -> name: uid]
+2017-10-03 17-23-09 INFO  HomePage:66 -Successfully Entered Password Address jemyzyz
+2017-10-03 17-23-11 INFO  HomePage:68 -Successfully Clicked on Login Button
+2017-10-03 17-23-11 INFO  TC001_VerifyLoginWithValidCredentials:58 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 17-23-18 INFO  TC001_VerifyLoginWithValidCredentials:67 -Successfully Closed the Browser Instance
+2017-10-03 17-29-01 INFO  TC001_VerifyLoginWithValidCredentials:56 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-03 17-29-01 INFO  HomePage:64 -Successfully Entered Email Address [[ChromeDriver: chrome on XP (f22c6b667d19f1b46dadc82e2fb8adc1)] -> name: uid]
+2017-10-03 17-29-01 INFO  HomePage:66 -Successfully Entered Password Address jemyzyz
+2017-10-03 17-29-03 INFO  HomePage:68 -Successfully Clicked on Login Button
+2017-10-03 17-29-03 INFO  HomePage:90 -Successfully Clicked on New User Tab
+2017-10-03 17-29-04 INFO  HomePage:92 -Successfully Entered Customer Name Test Customer
+2017-10-03 17-29-04 INFO  HomePage:94 -Successfully clicked on Gender radio button
+2017-10-03 17-29-04 INFO  HomePage:96 -Successfully Entered Date Of Birth  10/02/2000
+2017-10-03 17-29-04 INFO  HomePage:98 -Successfully Entered Customer Address Central Avanue Road North Block behind Fataka Bhandar
+2017-10-03 17-29-04 INFO  HomePage:100 -Successfully Entered Customer City Atlanta
+2017-10-03 17-29-04 INFO  HomePage:102 -Successfully Entered Customer State United Nations
+2017-10-03 17-29-04 INFO  HomePage:104 -Successfully Entered Customer Pin 563214
+2017-10-03 17-29-05 INFO  HomePage:106 -Successfully Entered Customer Mobile NO. 8965231047
+2017-10-03 17-29-05 INFO  HomePage:108 -Successfully Entered Email Address  test123@gmail.com
+2017-10-03 17-29-05 INFO  HomePage:110 -Successfully Entered Password  456321test
+2017-10-03 17-29-06 INFO  TC001_VerifyLoginWithValidCredentials:60 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-03 17-29-13 INFO  TC001_VerifyLoginWithValidCredentials:69 -Successfully Closed the Browser Instance
+2017-10-04 10-52-31 INFO  TC001_VerifyLoginWithValidCredentials:57 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-04 10-53-38 INFO  TC001_VerifyLoginWithValidCredentials:70 -Successfully Closed the Browser Instance
+2017-10-04 10-55-07 INFO  TC001_VerifyLoginWithValidCredentials:57 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-04 10-55-07 INFO  HomePage:66 -Successfully Entered Email Address [[ChromeDriver: chrome on XP (36400200e603fcd4a7e91b2e3173e7d8)] -> name: uid]
+2017-10-04 10-55-07 INFO  HomePage:68 -Successfully Entered Password Address jemyzyz
+2017-10-04 10-55-09 INFO  HomePage:70 -Successfully Clicked on Login Button
+2017-10-04 10-55-09 INFO  HomePage:92 -Successfully Clicked on New User Tab
+2017-10-04 10-55-09 INFO  HomePage:94 -Successfully Entered Customer Name Test Customer
+2017-10-04 10-55-09 INFO  HomePage:96 -Successfully clicked on Gender radio button
+2017-10-04 10-55-09 INFO  HomePage:98 -Successfully Entered Date Of Birth  10/02/2000
+2017-10-04 10-55-10 INFO  HomePage:100 -Successfully Entered Customer Address Central Avanue Road North Block behind Fataka Bhandar
+2017-10-04 10-55-10 INFO  HomePage:102 -Successfully Entered Customer City Atlanta
+2017-10-04 10-55-10 INFO  HomePage:104 -Successfully Entered Customer State United Nations
+2017-10-04 10-55-10 INFO  HomePage:106 -Successfully Entered Customer Pin 563214
+2017-10-04 10-55-10 INFO  HomePage:108 -Successfully Entered Customer Mobile NO. 8965231047
+2017-10-04 10-55-10 INFO  HomePage:110 -Successfully Entered Email Address  test123@gmail.com
+2017-10-04 10-55-10 INFO  HomePage:112 -Successfully Entered Password  456321test
+2017-10-04 10-55-11 INFO  TC001_VerifyLoginWithValidCredentials:61 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-04 10-55-18 INFO  TC001_VerifyLoginWithValidCredentials:70 -Successfully Closed the Browser Instance
+2017-10-04 11-02-21 INFO  TC001_VerifyLoginWithValidCredentials:57 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-04 11-02-22 INFO  HomePage:66 -Successfully Entered Email Address [[ChromeDriver: chrome on XP (06c962df6350e751cc9b64fd9d630fa6)] -> name: uid]
+2017-10-04 11-02-22 INFO  HomePage:68 -Successfully Entered Password Address jemyzyz
+2017-10-04 11-02-23 INFO  HomePage:70 -Successfully Clicked on Login Button
+2017-10-04 11-02-24 INFO  HomePage:92 -Successfully Clicked on New User Tab
+2017-10-04 11-02-24 INFO  HomePage:94 -Successfully Entered Customer Name Test Customer
+2017-10-04 11-02-24 INFO  HomePage:96 -Successfully clicked on Gender radio button
+2017-10-04 11-02-24 INFO  HomePage:98 -Successfully Entered Date Of Birth  10/02/2000
+2017-10-04 11-02-24 INFO  HomePage:100 -Successfully Entered Customer Address Central Avanue Road North Block behind Fataka Bhandar
+2017-10-04 11-02-25 INFO  HomePage:102 -Successfully Entered Customer City Atlanta
+2017-10-04 11-02-25 INFO  HomePage:104 -Successfully Entered Customer State United Nations
+2017-10-04 11-02-25 INFO  HomePage:106 -Successfully Entered Customer Pin 563214
+2017-10-04 11-02-25 INFO  HomePage:108 -Successfully Entered Customer Mobile NO. 8965231047
+2017-10-04 11-02-25 INFO  HomePage:110 -Successfully Entered Email Address  test123@gmail.com
+2017-10-04 11-02-25 INFO  HomePage:112 -Successfully Entered Password  456321test
+2017-10-04 11-02-26 INFO  TC001_VerifyLoginWithValidCredentials:61 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-04 11-02-33 INFO  TC001_VerifyLoginWithValidCredentials:70 -Successfully Closed the Browser Instance
+2017-10-04 13-01-28 INFO  TC001_VerifyLoginWithValidCredentials:59 -============ Starting verifyLoginWithInvalidCredentials Test ===================
+2017-10-04 13-01-29 INFO  HomePage:66 -Successfully Entered Email Address [[ChromeDriver: chrome on XP (3f419c66d397c2f13e0aa409fc772b6b)] -> name: uid]
+2017-10-04 13-01-29 INFO  HomePage:68 -Successfully Entered Password Address jemyzyz
+2017-10-04 13-01-31 INFO  HomePage:70 -Successfully Clicked on Login Button
+2017-10-04 13-01-31 INFO  HomePage:92 -Successfully Clicked on New User Tab
+2017-10-04 13-01-32 INFO  HomePage:94 -Successfully Entered Customer Name Test Customer
+2017-10-04 13-01-32 INFO  HomePage:96 -Successfully clicked on Gender radio button
+2017-10-04 13-01-32 INFO  HomePage:98 -Successfully Entered Date Of Birth  10/02/2000
+2017-10-04 13-01-32 INFO  HomePage:100 -Successfully Entered Customer Address Central Avanue Road North Block behind Fataka Bhandar
+2017-10-04 13-01-33 INFO  HomePage:102 -Successfully Entered Customer City Atlanta
+2017-10-04 13-01-33 INFO  HomePage:104 -Successfully Entered Customer State United Nations
+2017-10-04 13-01-33 INFO  HomePage:106 -Successfully Entered Customer Pin 563214
+2017-10-04 13-01-33 INFO  HomePage:108 -Successfully Entered Customer Mobile NO. 8965231047
+2017-10-04 13-01-33 INFO  HomePage:110 -Successfully Entered Email Address  test123@gmail.com
+2017-10-04 13-01-33 INFO  HomePage:112 -Successfully Entered Password  456321test
+2017-10-04 13-01-34 INFO  TC001_VerifyLoginWithValidCredentials:63 -=========== Finished verifyLoginWithInvalidCredentials Test ====================
+2017-10-04 13-01-41 INFO  TC001_VerifyLoginWithValidCredentials:72 -Successfully Closed the Browser Instance

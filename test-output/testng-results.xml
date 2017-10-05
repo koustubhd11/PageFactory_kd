@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression suite" duration-ms="21901" started-at="2017-10-04T14:42:07Z" finished-at="2017-10-04T14:42:29Z">
+    <groups>
+    </groups>
+    <test name="VerifyLoginWithValidCredentials" duration-ms="21901" started-at="2017-10-04T14:42:07Z" finished-at="2017-10-04T14:42:29Z">
+      <class name="com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials">
+        <test-method status="PASS" signature="initializeSuite()[pri:0, instance:com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials@402a079c]" name="initializeSuite" is-config="true" duration-ms="343" started-at="2017-10-04T20:12:07Z" finished-at="2017-10-04T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials@402a079c]" name="setUp" is-config="true" duration-ms="6673" started-at="2017-10-04T20:12:07Z" finished-at="2017-10-04T20:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginWithValidCredentials()[pri:0, instance:com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials@402a079c]" name="verifyLoginWithValidCredentials" duration-ms="2779" started-at="2017-10-04T20:12:14Z" finished-at="2017-10-04T20:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials@402a079c]" name="setUp" is-config="true" duration-ms="6408" started-at="2017-10-04T20:12:17Z" finished-at="2017-10-04T20:12:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CreateNewUser()[pri:1, instance:com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials@402a079c]" name="CreateNewUser" duration-ms="4760" started-at="2017-10-04T20:12:23Z" finished-at="2017-10-04T20:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewUser -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials@402a079c]" name="CloseBrowser" is-config="true" duration-ms="1259" started-at="2017-10-04T20:12:28Z" finished-at="2017-10-04T20:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.test.automation.uIAutomation.homePage.VerifyLoginWithValidCredentials -->
+    </test> <!-- VerifyLoginWithValidCredentials -->
+  </suite> <!-- Regression suite -->
+</testng-results>

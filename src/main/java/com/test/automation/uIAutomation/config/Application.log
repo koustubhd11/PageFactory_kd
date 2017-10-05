@@ -1,0 +1,51 @@
+2017-09-28 16:09:24,217 INFO  [Log] ======================================================================================== 
+2017-09-28 16:09:24,218 INFO  [Log] XXXXXXXXXXXXXXXXXXXX Staging Site is used for performing testing XXXXXXXXXXXXXXXXXXXX 
+2017-09-28 16:09:24,221 INFO  [Log] XXXXXXXXXXXXXXXX Execution started at :- Thu Sep 28 16:09:24 IST 2017 XXXXXXXXXXXXXXXXXX 
+2017-09-28 16:09:24,221 INFO  [Log] ======================================================================================== 
+2017-09-28 16:09:24,221 INFO  [Log] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+2017-09-28 16:09:24,221 INFO  [Log] XXXXXXXXXXXXXXXXXXX      Execution of StraighterLine Test cases     XXXXXXXXXXXXXXXXXXXX 
+2017-09-28 16:09:24,221 INFO  [Log] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+2017-09-28 16:09:24,221 INFO  [Log] Retriving the values from config.properties file. 
+2017-09-28 16:09:27,037 INFO  [Log] <======================================================================================> 
+2017-09-28 16:09:27,037 INFO  [Log] <============================= Execution of New Test Script ===========================> 
+2017-09-28 16:09:27,037 INFO  [Log] <======================================================================================> 
+2017-09-28 16:09:27,037 INFO  [Log] New driver instantiated. 
+2017-09-28 16:09:27,038 INFO  [Log] http://demo.guru99.com/V4==> is used for performing testing. 
+2017-09-28 16:09:40,862 INFO  [Log] Web application launched successfully. 
+2017-09-28 16:09:40,862 INFO  [Log] Browser Invoked 
+2017-09-28 16:09:40,862 INFO  [Log] Chrome Browser has been initiated for testing. 
+2017-09-28 16:09:43,741 INFO  [Log] Successfully entered Username and Password 
+2017-10-02 13:32:29,968 INFO  [Log] ======================================================================================== 
+2017-10-02 13:32:30,005 INFO  [Log] XXXXXXXXXXXXXXXXXXXX Staging Site is used for performing testing XXXXXXXXXXXXXXXXXXXX 
+2017-10-02 13:32:30,010 INFO  [Log] XXXXXXXXXXXXXXXX Execution started at :- Mon Oct 02 13:32:30 IST 2017 XXXXXXXXXXXXXXXXXX 
+2017-10-02 13:32:30,010 INFO  [Log] ======================================================================================== 
+2017-10-02 13:32:30,010 INFO  [Log] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+2017-10-02 13:32:30,010 INFO  [Log] XXXXXXXXXXXXXXXXXXX      Execution of StraighterLine Test cases     XXXXXXXXXXXXXXXXXXXX 
+2017-10-02 13:32:30,010 INFO  [Log] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+2017-10-02 13:32:30,010 INFO  [Log] Retriving the values from config.properties file. 
+2017-10-02 13:32:32,613 INFO  [Log] <======================================================================================> 
+2017-10-02 13:32:32,613 INFO  [Log] <============================= Execution of New Test Script ===========================> 
+2017-10-02 13:32:32,613 INFO  [Log] <======================================================================================> 
+2017-10-02 13:32:32,613 INFO  [Log] New driver instantiated. 
+2017-10-02 13:32:32,614 INFO  [Log] http://demo.guru99.com/V4==> is used for performing testing. 
+2017-10-02 13:32:36,028 INFO  [Log] Web application launched successfully. 
+2017-10-02 13:32:36,028 INFO  [Log] Browser Invoked 
+2017-10-02 13:32:36,029 INFO  [Log] Chrome Browser has been initiated for testing. 
+2017-10-02 13:32:37,514 INFO  [Log] Successfully entered Username and Password 
+2017-10-02 13:33:38,765 INFO  [Log] ======================================================================================== 
+2017-10-02 13:33:38,766 INFO  [Log] XXXXXXXXXXXXXXXXXXXX Staging Site is used for performing testing XXXXXXXXXXXXXXXXXXXX 
+2017-10-02 13:33:38,772 INFO  [Log] XXXXXXXXXXXXXXXX Execution started at :- Mon Oct 02 13:33:38 IST 2017 XXXXXXXXXXXXXXXXXX 
+2017-10-02 13:33:38,772 INFO  [Log] ======================================================================================== 
+2017-10-02 13:33:38,772 INFO  [Log] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+2017-10-02 13:33:38,772 INFO  [Log] XXXXXXXXXXXXXXXXXXX      Execution of StraighterLine Test cases     XXXXXXXXXXXXXXXXXXXX 
+2017-10-02 13:33:38,772 INFO  [Log] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+2017-10-02 13:33:38,772 INFO  [Log] Retriving the values from config.properties file. 
+2017-10-02 13:33:41,599 INFO  [Log] <======================================================================================> 
+2017-10-02 13:33:41,599 INFO  [Log] <============================= Execution of New Test Script ===========================> 
+2017-10-02 13:33:41,599 INFO  [Log] <======================================================================================> 
+2017-10-02 13:33:41,599 INFO  [Log] New driver instantiated. 
+2017-10-02 13:33:41,599 INFO  [Log] http://demo.guru99.com/V4==> is used for performing testing. 
+2017-10-02 13:33:44,884 INFO  [Log] Web application launched successfully. 
+2017-10-02 13:33:44,884 INFO  [Log] Browser Invoked 
+2017-10-02 13:33:44,884 INFO  [Log] Chrome Browser has been initiated for testing. 
+2017-10-02 13:33:46,506 INFO  [Log] Successfully entered Username and Password 
